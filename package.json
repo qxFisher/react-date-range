@@ -1,6 +1,6 @@
 {
   "name": "react-date-range",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A React component for choosing dates and date ranges.",
   "main": "dist/index.js",
   "scripts": {
@@ -29,10 +29,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/hypeserver/react-date-range"
+    "url": "http://github.com/qxFisher/react-date-range"
   },
   "bugs": {
-    "url": "http://github.com/hypeserver/react-date-range/issues"
+    "url": "http://github.com/qxFisher/react-date-range/issues"
   },
   "browserslist": [
     "defaults"
